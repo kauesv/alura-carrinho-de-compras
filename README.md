@@ -25,6 +25,7 @@ O projeto consiste em uma simulação de compra, onde o usuário pode interagir 
 - Botão "Adicionar": Permite adicionar o produto selecionado ao carrinho.
 - Botão "Limpar": Permite esvaziar o carrinho, removendo todos os produtos.
 - Campo de Quantidade: Permite ao usuário inserir a quantidade desejada de produtos.
+
 À medida que os produtos são adicionados ao carrinho, a interface exibirá o valor de cada produto e o total acumulado no carrinho.
 
 ### Meu Ponto de Vista
