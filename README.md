@@ -28,7 +28,7 @@ O projeto consiste em uma simulação de compra, onde o usuário pode interagir 
 
 À medida que os produtos são adicionados ao carrinho, a interface exibirá o valor de cada produto e o total acumulado no carrinho.
 
-### Meu Ponto de Vista
+### O que achei do curso
 
 > "Esse curso é bem interessante, são 5 projetos em 1 e achei genial a ideia, os professores deixaram disponíveis para os alunos o HTML e CSS prontos para a gente focar apenas no Javascript."
 
